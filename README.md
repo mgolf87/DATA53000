@@ -24,6 +24,6 @@ See Above
 ##### locations.tsv
 Explain
 ##### map.png
-Background image to overlay the COVID data overtop.
+Background image to overlay the COVID data on top.
 ##### statesCovid.txt
 Reference points for the location of the states with respect to the background image.
