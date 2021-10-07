@@ -1,4 +1,5 @@
 # DATA53000 - Data Visualization
+Lewis University Fall 2, 2020
 
 <br />
 
